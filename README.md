@@ -1,11 +1,11 @@
 # EukSpecies  
-Gene prediction protocol for some eukaryotic species  
+Genome and annotation preparation protocol for eukaryotic projects.  
   
 Only shared components are described in this document.  
 Species specific commands are in species README files.  
+
 ### Installation  
 ```
-cd /storage3/w/alexl/
 git clone git@github.gatech.edu:al68/EukSpecies.git
 
 cd EukSpecies
@@ -28,4 +28,4 @@ Use genomic sequence from GenBank when possible. GenBank website and sequence ac
 * Use ID from annotation.  
 * Keep information about genome sequence ID and annotation sequence ID in the file "list.tbl".  
 * First column in the "list.tbl" table is sequence ID and second column is annotation ID.  
-### Annotation
+
