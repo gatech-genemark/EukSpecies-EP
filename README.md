@@ -10,12 +10,11 @@ git https://github.gatech.edu/GeneMark/EukSpecies-EP.git
 
 cd EukSpecies
 cd bin
+
 # follow installation instructions in "bin" README file
 ```
-  
 ### Setup  
 Project is set in bash shell.  
-Setup environment variables before each work session.  
 
 ### Genome sequence  
 Download genomic sequence and reformat it:  
@@ -30,4 +29,3 @@ Use genomic sequence from GenBank when possible. GenBank website and sequence ac
 * Use ID from annotation.  
 * Keep information about genome sequence ID and annotation sequence ID in the file "list.tbl".  
 * First column in the "list.tbl" table is sequence ID and second column is annotation ID.  
-
