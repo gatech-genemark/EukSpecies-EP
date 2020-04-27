@@ -6,7 +6,7 @@ Species specific commands are in species README files.
 
 ### Installation  
 ```
-git https://github.gatech.edu/GeneMark/EukSpecies-EP.git
+git clone https://github.gatech.edu/GeneMark/EukSpecies-EP.git
 
 cd EukSpecies
 cd bin
